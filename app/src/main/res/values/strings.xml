@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">TwitterPrivacy</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">KjRHMWQUgSSAWejC50GurFN4H</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">EKtcL0ZHlBXJ2ICOlsoS1aeqnPHDWEtuDzA8vIGhayzhUt2JYC</string>
+    <string name="Barriertoken">AAAAAAAAAAAAAAAAAAAAAGzWdAEAAAAA2js79sJhx526dFAOU3I1yIzBHto%3DKme8faENIEG5tf2qThc81ppkRel7jQQR2K1AQaJJmrNazFYJth
+</string>
+    <string name="find_sentiment">find Sentiment</string>
+    <string name="list_is_empty">List is empty!</string>
+
+
+</resources>
